@@ -15,7 +15,7 @@ requests library: This is used for making API calls.
 pip install requests
 
 
-A Gemini API Key: You must obtain a personal API key for free from the Google AI Studio API Key Page.
+A Gemini API Key: You must obtain a personal API key for free from the Google AI  (https://studio.google.com/) Studio API Key Page.
 
 🔑 Security Setup (CRITICAL)
 
