@@ -47,16 +47,6 @@ python extract_national_id.py
 
 
 Provide the Path: The script will prompt you to enter the full path to the image file containing the Egyptian ID.
-### Example Run
-
-```bash
-$ python extract_national_id.py
-Enter full path to ID image file: ./test_id.jpg
---- Starting National ID Extraction ---
-✅ Extraction successful.
-
-Extracted National ID (14 digits): 30408121187123
---- Extraction Complete ---
 
 📝 Project Structure
 
@@ -69,3 +59,17 @@ README.md: This file.
 Disclaimer
 
 This script is intended for educational purposes and personal use with legally obtained images. Always comply with local privacy and data protection laws when handling sensitive personal information.
+
+### Example Run
+
+```bash
+$ python extract_national_id.py
+Enter full path to ID image file: ./test_id.jpg
+--- Starting National ID Extraction ---
+✅ Extraction successful.
+
+Extracted National ID (14 digits): 30408121187123
+--- Extraction Complete ---
+
+
+
